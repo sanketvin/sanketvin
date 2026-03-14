@@ -1,16 +1,37 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sanket's%20GitHub&fontSize=40&fontAlignY=35&animation=twinkling"/>
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanket%20Cyber%20City&fontSize=45&fontColor=00ffff&animation=twinkling"/>
+
+<h1 align="center">⚡ Welcome to Sanket's Cyberpunk City ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanket;Welcome+to+my+GitHub;Building+Cool+Projects"/>
+Entering the Neon Grid • Developer Node Active • System Online
 </p>
+
+<!-- MATRIX CITY VISUAL -->
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
 </p>
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600"/>
-</p>
-<h2 align="center">Welcome to my GitHub</h2>
+
+---
+
+## 🧠 SYSTEM STATUS
+
+
+---
+
+## 🌆 ENTER THE CITY GRID
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketvin&theme=react-dark&bg_color=0D1117&hide_border=true"/>
 </p>
+
+---
+
+## ⚡ CONNECT TO THE NETWORK
+
+<p align="center">
+<a href="https://github.com/sanketvin">GitHub</a>
+</p>
+
+<!-- CYBERPUNK FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
